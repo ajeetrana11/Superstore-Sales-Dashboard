@@ -35,3 +35,4 @@ Tools & Skills Used
 
 This project demonstrates how raw superstore data can be transformed into actionable insights using Power BI.
 
+Screenshots / Demos: Example:
